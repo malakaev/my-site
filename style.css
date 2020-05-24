@@ -23,7 +23,7 @@ body {
 }
 
 .page-header .container,
-.page-footer .containe {
+.page-footer .container {
   max-width: 1408px;
   text-align: right;
 }
@@ -70,7 +70,7 @@ body {
 }
 
 .intro {
-  margin: 0 0 120px;
+  margin: 0 0 60px;
 }
 
 .subheading {
@@ -136,7 +136,7 @@ body {
 }
 
 .portfolio {
-  margin: 0 0 120px;
+  margin: 0 0 60px;
 }
 
 .projects {
@@ -160,6 +160,7 @@ body {
 
 .button {
   padding: 6px 20px;
+  margin: 0 0 40px;
   display: inline-block;
   vertical-align: baseline;
   text-decoration: none;
